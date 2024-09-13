@@ -1,0 +1,18 @@
+{
+  "updated_risk_analysis": {
+    "income_investment_analysis": {
+      "analysis": "Given the user's income of 1,000,000 INR and debt of 100,000 INR, the risk tolerance level remains acceptable at moderately high. However, considering the investment in real estate, the user may consider slightly increasing exposure to equity to balance long-term growth potential."
+    },
+    "financial_goals_analysis": {
+      "analysis": "The user's primary goal is to buy a new house within a 10-year timeframe. Given the time duration and the current portfolio preference of balancing long-term returns with short-term losses, the risk tolerance should remain the same, as it aligns well with the user's goals and investment horizon."
+    },
+    "risk_tolerance_analysis": {
+      "analysis": "The user's current risk tolerance is 56, categorized as moderately high. The target value of 2,000,000 INR within 10 years is achievable with the current strategy. No significant changes in risk tolerance are recommended, but it is important to keep monitoring investments and portfolio performance."
+    },
+    "new_risk_tolerance": {
+      "tolerance": 56,
+      "toleranceCategory": "Moderately High",
+      "recommendation": "Maintain current risk tolerance and monitor portfolio structure for diversification opportunities in equity and other assets."
+    }
+  }
+}
